@@ -1,0 +1,21 @@
+/* profile style */
+
+.profile-container {
+    margin: 20px;
+}
+.profile-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.profile-details {
+    padding: 20px;
+    border: 1px solid #577efc;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+.profile-label {
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 0; /* Menghilangkan border-radius */
+}
